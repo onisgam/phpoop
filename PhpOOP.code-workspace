@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "PhpOOP",
+			"path": "."
+		},
+		{
+			"name": "christian",
+			"path": "../../../Users/magsinocc/Desktop/christian"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "christian"
+	}
+}

@@ -15,7 +15,7 @@ if (isset($_POST['multisave'])) {
     $barangay = $_POST['barangay'];
     $city = $_POST['city'];
     $province = $_POST['province'];
-   
+
     if ($password == $confirm) {
         // Passwords match, proceed with signup
         $user_id = $con->signupUser($firstname, $lastname, $birthday, $sex, $username, $password); // Insert into users table and get user_id
